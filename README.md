@@ -1,14 +1,14 @@
 # Projeto Site Host
 Consiste em um projeto para um site de hospedagem
 
-# Inicio
-Em construção.
+## Inicio
+[ ] Em construção.
 
-# Planos
-Encerrado
+## Planos
+[x] Em Construção
 
-# Suporte 
-Em Construção
+## Suporte 
+[ ] Em Construção
 
-# Fale Conosco
-Em construção
+## Fale Conosco
+[ ] Em construção
